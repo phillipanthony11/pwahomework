@@ -8,8 +8,10 @@ Our homework was to build a text editor than ran in the browser. It had data per
 
 ![Screenshot of an app open with the cache open in the applications area](/client/src/images/Screen%20Shot%202022-12-05%20at%201.41.09%20PM.png)
 
+![Screenshot of app succesfully building and deploying through vscode](/client/src/images/app-running.png)
+
 ## Links:
 
-Deployed application:
+Deployed application: https://pwahomework111.herokuapp.com/
 
 Github repo:https://github.com/phillipanthony11/pwahomework
