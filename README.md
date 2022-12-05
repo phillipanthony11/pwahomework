@@ -1,8 +1,8 @@
 # PWA Homework
 
-## Description: 
+## Description:
 
-Our homework was to build a text editor than ran in the browser.  It had data persistence techniques so that if one option was was supported another would be.  Not that many functions had to be written , but some of the starter code had to be changed in order for this application to run.
+Our homework was to build a text editor than ran in the browser. It had data persistence techniques so that if one option was was supported another would be. Not that many functions had to be written , but some of the starter code had to be changed in order for this application to run.
 
 ## Screenshots:
 
@@ -12,4 +12,4 @@ Our homework was to build a text editor than ran in the browser.  It had data pe
 
 Deployed application:
 
-Github repo:
+Github repo:https://github.com/phillipanthony11/pwahomework
